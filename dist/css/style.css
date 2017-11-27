@@ -1,0 +1,127 @@
+body{
+  margin-top:70px;
+  font-size:16px;
+}
+
+img{
+  width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:Poppins;
+}
+
+p{
+  font-family:Roboto;
+}
+
+.navbar-default{
+  background:#fff;
+  border:0;
+  font-family:Poppins;
+}
+
+.navbar-brand{
+  font-size:20px;
+  color:#000 !important;
+  font-weight:bold;
+}
+
+.info-left{
+  margin-top: 30px;
+}
+
+.second-left{
+  margin-top: 150px;
+}
+
+.themes{
+  margin-top: 20px;
+}
+
+.themes-headline{
+  margin: auto;
+  text-align: center;
+
+}
+
+
+#showcase h1{
+  font-size:50px;
+  margin-bottom:20px;
+}
+
+#showcase img{
+}
+
+#showcase .showcase-right{
+  margin-top:50px;
+}
+
+#testimonial{
+  background:#f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top:40px;
+}
+
+#testimonial p{
+  font-size:32px;
+  font-family: 'Josefin Sans';
+  color:#000;
+}
+
+#testimonial p.customer{
+  font-size:20px;
+  color:#666;
+}
+
+.info1 .info-right{
+  margin-top:90px;
+}
+
+.info2{
+  margin:20px 0 60px 0;
+}
+
+#contact{
+  background: url("../img/showcase4.jpg");
+  padding: 40px;
+  color:#fff;
+  border-top:#333 7px solid;
+  border-bottom:#333 7px solid;
+}
+
+footer{
+  padding:20px;
+  text-align: center;
+
+}
+
+a:link {
+  color:rgb(140, 140, 140);
+}
+
+a:visited {
+      color: rgb(140, 140, 140);
+}
+
+a:hover {
+    color: #323232;
+}
+
+a:active {
+    color:  #323232;
+}
+
+@media(max-width: 768px){
+
+  .themes{
+    height: 70%;
+    width: 70%;
+    margin: 10px auto auto;
+  }
+
+
+}
+
